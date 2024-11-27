@@ -33,6 +33,8 @@ Thanks [zyzcss](https://github.com/zyzcss/python-diff/tree/main)
 
 展示结果：
 
+![](./pics/demo_diff_1.png)
+
 當中兩條主線，我<span style='color:red;font-weight:500;text-decoration:line-through;'>哋</span><span style='color:green;font-weight:500;'>們</span><span style='font-weight:700;background-color:#FFF3CC;'>要更好發揮香港一國兩制下的背景，背靠祖國</span><span style='color:green;font-weight:500;'>、</span>聯通世界<span style='color:red;font-weight:500;text-decoration:line-through;'>嘅</span><span style='color:green;font-weight:500;'>的</span>
 
 **Changes:**
